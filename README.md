@@ -1,2 +1,2 @@
 # pay-bugbounty-poc
-poc
+Payu bugbounty poc by @nvk0x
